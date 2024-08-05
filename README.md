@@ -11,3 +11,5 @@ I have a passion for riding bicycles, finding joy and relaxation in exploring ne
 - LinkedIn - [Aman Kumar](https://www.linkedin.com/in/amankumar035/)
 - E-mail - [amankumarmicro@gmail.com](mailto:amankumarmicro@gmail.com?Subject=Hello)
 - Telegram - [@firelord1](https://t.me/firelord1)
+
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=firelord.firelord)
