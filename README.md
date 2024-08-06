@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px">
 ### I'm **Aman Kumar** (firelord)
 
 I have a passion for riding bicycles, finding joy and relaxation in exploring new routes and scenery. Professionally, I am deeply engaged in mobile app development, where I thrive on the challenges and innovations that come with creating digital experiences. 
