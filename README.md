@@ -4,7 +4,7 @@
 I have a passion for riding bicycles, finding joy and relaxation in exploring new routes and scenery. Professionally, I am deeply engaged in mobile app development, where I thrive on the challenges and innovations that come with creating digital experiences. 
 
 ### Languages and Tools:
-![My Skills](https://skillicons.dev/icons?i=swift,kotlin,androidstudio,apple,py,firebase,mongodb,mysql,postman,vscode,figma,bootstrap,html,css,jenkins)
+![My Skills](https://skillicons.dev/icons?i=swift,kotlin,androidstudio,apple,py,firebase,nextjs,tailwind,express,prisma,postgres,mongodb,postman,vscode,jenkins)
 
 ### Contact Me:
 - Portfolio/Blog - [firelord.github.io](https://firelord.github.io/)
